@@ -25,7 +25,7 @@ Firebase Authentication
 
 ## Installation
 1) Clone the repository:
-   git clone https://github.com/parasbande007/Novelize.git
+  git clone https://github.com/shendeankit03/Novelize.git
 
 2) Install dependencies:
    cd mern-server
