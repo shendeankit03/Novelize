@@ -35,7 +35,7 @@ Private Routes: Ensure only authenticated users can access certain pages.
    npm start
 
 4) Run Application :
-   i) start another powershell window in the terminal
-   ii) cd mern-server
-   iii) cd mern-client
-   iv) npm run dev
+i) start another powershell window in the terminal
+ii) cd mern-server
+iii) cd mern-client
+iv) npm run dev
